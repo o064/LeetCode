@@ -18,13 +18,12 @@ class Solution(object):
                 return None;
             if node == n1 or node ==n2 :
                 return node;
-            
-            leftsubTree =lca(node.left,n1,n2)
-            rightsubTree =lca(node.right,n1,n2)
-
-            if leftsubTree and rightsubTree :
+            if (node.val >  n1.val and node.val >  n2.val) :
+                return lca(node.left,n1,n2);
+            elif (node.val <  n1.val and node.val <  n2.val) :
+                return lca(node.right,n1,n2);
+            else : 
                 return node;
-            return leftsubTree if leftsubTree else rightsubTree
         
         return lca(root,p,q)
 
