@@ -13,29 +13,19 @@ class Solution(object):
         :type q: TreeNode
         :rtype: TreeNode
         """
-        # get the path to p,q
-        def trackPath(node ,value,path) :
-            if not node :
-                return 
-            path.append(node)
-            if node.val == value :
-                return 
-            elif node.val > value :
-                trackPath(node.left,value,path)
-            else : 
-                trackPath(node.right,value,path)
+        def lca(node ,n1,n2):
+            if not node: 
+                return None;
+            if node == n1 or node ==n2 :
+                return node;
+            
+            leftsubTree =lca(node.left,n1,n2)
+            rightsubTree =lca(node.right,n1,n2)
 
-        # tack path 
-        pPath =[]
-        qPath =[]
-        trackPath(root,p.val,pPath)
-        trackPath(root,q.val,qPath) 
-        # get last path match
-        i =0 
-        while (i < len(pPath) and i < len(qPath)) :
-            if pPath[i].val != qPath[i].val : 
-                break
-            i +=1
-        return pPath[i-1]
+            if leftsubTree and rightsubTree :
+                return node;
+            return leftsubTree if leftsubTree else rightsubTree
+        
+        return lca(root,p,q)
 
                 
