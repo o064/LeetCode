@@ -13,18 +13,15 @@ class Solution(object):
         :type q: TreeNode
         :rtype: TreeNode
         """
-        def lca(node ,n1,n2):
-            if not node: 
-                return None;
-            if node == n1 or node ==n2 :
-                return node;
-            if (node.val >  n1.val and node.val >  n2.val) :
-                return lca(node.left,n1,n2);
-            elif (node.val <  n1.val and node.val <  n2.val) :
-                return lca(node.right,n1,n2);
+        cur = root
+        while cur :
+            if (cur.val >  p.val and cur.val >  q.val) :
+                cur = cur.left;
+            elif (cur.val <  p.val and cur.val <  q.val) :
+                cur = cur.right;
             else : 
-                return node;
+                return cur
+
         
-        return lca(root,p,q)
 
                 
