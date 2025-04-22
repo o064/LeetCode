@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0577-employee-bonus](https://github.com/o064/LeetCode-Problems/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/o064/LeetCode-Problems/tree/master/0595-big-countries) |
+| [0596-classes-more-than-5-students](https://github.com/o064/LeetCode-Problems/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/o064/LeetCode-Problems/tree/master/0620-not-boring-movies) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/o064/LeetCode-Problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1390-average-selling-price](https://github.com/o064/LeetCode-Problems/tree/master/1390-average-selling-price) |
