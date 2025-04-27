@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/o064/LeetCode-Problems/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/o064/LeetCode-Problems/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/o064/LeetCode-Problems/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/o064/LeetCode-Problems/tree/master/0626-exchange-seats) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/o064/LeetCode-Problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1338-queries-quality-and-percentage](https://github.com/o064/LeetCode-Problems/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/o064/LeetCode-Problems/tree/master/1390-average-selling-price) |
