@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/o064/LeetCode-Problems/tree/master/0180-consecutive-numbers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/o064/LeetCode-Problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/o064/LeetCode-Problems/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/o064/LeetCode-Problems/tree/master/0595-big-countries) |
