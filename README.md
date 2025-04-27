@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/o064/LeetCode-Problems/tree/master/0626-exchange-seats) |
 | [1155-product-sales-analysis-iii](https://github.com/o064/LeetCode-Problems/tree/master/1155-product-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/o064/LeetCode-Problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1317-monthly-transactions-i](https://github.com/o064/LeetCode-Problems/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/o064/LeetCode-Problems/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/o064/LeetCode-Problems/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/o064/LeetCode-Problems/tree/master/1415-students-and-examinations) |
