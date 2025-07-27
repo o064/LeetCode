@@ -3,15 +3,16 @@ WITH  daily_report as (
     SELECT  visited_on ,SUM(amount)  as amount 
     FROM Customer 
     GROUP BY visited_on 
-    ORDER BY visited_on desc
 )
 
-SELECT dr1.visited_on, SUM(dr2.amount) as amount  , ROUND(AVG(dr2.amount),2) as average_amount 
+SELECT dr1.visited_on, 
+        SUM(dr2.amount) as amount  , 
+        ROUND(AVG(dr2.amount),2) as average_amount 
 FROM daily_report as dr1 
 JOIN daily_report as dr2 
- ON DATEDIFF(dr1.visited_on, dr2.visited_on) BETWEEN 0 AND 6
+    ON dr2.visited_on BETWEEN DATE_SUB(dr1.visited_on, INTERVAL 6 DAY) AND dr1.visited_on
 GROUP BY dr1.visited_on 
-HAVING DATEDIFF(dr1.visited_on, MIN(dr2.visited_on)) = 6
+HAVING COUNT(DISTINCT dr2.visited_on) = 7
 ORDER BY dr1.visited_on 
 
  
