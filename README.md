@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/o064/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/o064/LeetCode-Problems/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -173,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/o064/LeetCode-Problems/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/o064/LeetCode-Problems/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/o064/LeetCode-Problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/o064/LeetCode-Problems/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/o064/LeetCode-Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
