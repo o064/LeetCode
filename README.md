@@ -177,9 +177,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/o064/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/o064/LeetCode-Problems/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/o064/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/o064/LeetCode-Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
