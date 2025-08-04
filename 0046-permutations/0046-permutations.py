@@ -7,18 +7,16 @@ class Solution(object):
         perm=[]
         sub=[]
         n= len(nums)
-        def helper(nums , perm ):
-            
-            if(len(sub)==n):
+        def helper(nums):
+            if not nums:
                 perm.append(sub[:])
                 return;
             for i in range(len(nums)):
-                num = nums.pop(i)
+                num = nums[i]
                 sub.append(num)
-                helper(nums, perm)
-                nums.insert(i,num)
-                sub.remove(num)
-        helper(nums,perm)
+                helper(nums[:i]+nums[i+1:])
+                sub.pop()
+        helper(nums)
         return perm
         
 
