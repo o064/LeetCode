@@ -10,19 +10,16 @@ class Solution(object):
             freq[ch] = freq.get(ch, 0) + 1
         maxheap=[-1 * value for  value in freq.values()]
         heapq.heapify(maxheap)
+        q= deque()
         time = 0 
-        while maxheap:
-            temp = [] 
-            for _ in range(n + 1):
-                if maxheap : 
-                    count = heapq.heappop(maxheap)
-                    if count + 1 != 0 : 
-                        temp.append(count+1)
-                    time +=1
-                else:
-                    if not temp:
-                        break
-                    time +=1  
-            for item in temp :
-                heapq.heappush(maxheap,item)
+        while maxheap or q :
+            time += 1
+            if not maxheap:
+                time = q[0][1]
+            else:
+                cnt = 1 + heapq.heappop(maxheap)
+                if cnt:
+                    q.append([cnt, time + n])
+            if q and q[0][1] == time:
+                heapq.heappush(maxheap, q.popleft()[0])
         return time
