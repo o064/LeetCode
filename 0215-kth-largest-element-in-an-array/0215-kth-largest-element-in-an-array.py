@@ -7,7 +7,7 @@ class Solution(object):
         """
         heap = [-1 * x for x in nums ]
         heapq.heapify(heap)
-        for i in range(k):
-            x = heapq.heappop(heap)
-        return -1 * x 
+        for i in range(k-1):
+            heapq.heappop(heap)
+        return -1 * heapq.heappop(heap) 
         
