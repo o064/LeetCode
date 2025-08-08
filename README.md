@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/o064/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/o064/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/o064/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/o064/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/o064/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/o064/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/o064/LeetCode-Problems/tree/master/1127-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
