@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/o064/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/o064/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/o064/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/o064/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0621-task-scheduler](https://github.com/o064/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/o064/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/o064/LeetCode-Problems/tree/master/0792-binary-search) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/o064/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/o064/LeetCode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/o064/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/o064/LeetCode-Problems/tree/master/0322-coin-change) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/o064/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/o064/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/o064/LeetCode-Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
