@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/o064/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/o064/LeetCode-Problems/tree/master/0072-edit-distance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/o064/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/o064/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/o064/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/o064/LeetCode-Problems/tree/master/0322-coin-change) |
