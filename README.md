@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/o064/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/o064/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/o064/LeetCode-Problems/tree/master/0072-edit-distance) |
 ## Sliding Window
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/o064/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/o064/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/o064/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/o064/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/o064/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/o064/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/o064/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/o064/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
