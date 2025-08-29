@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/o064/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/o064/LeetCode-Problems/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/o064/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/o064/LeetCode-Problems/tree/master/0078-subsets) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/o064/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/o064/LeetCode-Problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/o064/LeetCode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/o064/LeetCode-Problems/tree/master/0078-subsets) |
