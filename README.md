@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/o064/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/o064/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/o064/LeetCode-Problems/tree/master/0072-edit-distance) |
+| [0516-longest-palindromic-subsequence](https://github.com/o064/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/o064/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
@@ -282,5 +283,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/o064/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/o064/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/o064/LeetCode-Problems/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/o064/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/o064/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
