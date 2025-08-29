@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/o064/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/o064/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/o064/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0342-power-of-four](https://github.com/o064/LeetCode-Problems/tree/master/0342-power-of-four) |
 ## Recursion
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/o064/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/o064/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/o064/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/o064/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/o064/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/o064/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/o064/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/o064/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/o064/LeetCode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
