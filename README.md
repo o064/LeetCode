@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/o064/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/o064/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/o064/LeetCode-Problems/tree/master/1127-last-stone-weight) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/o064/LeetCode-Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Binary Search
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/o064/LeetCode-Problems/tree/master/0621-task-scheduler) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/o064/LeetCode-Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Matrix
 |  |
 | ------- |
