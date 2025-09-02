@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/o064/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/o064/LeetCode-Problems/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/o064/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/o064/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/o064/LeetCode-Problems/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/o064/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/o064/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/o064/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/o064/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/o064/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/o064/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/o064/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/o064/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/o064/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/o064/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/o064/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
