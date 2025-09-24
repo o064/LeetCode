@@ -2,9 +2,11 @@ class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         # 0 -> not visited  , 1-> process  2-> visited
         visited= [0] *  numCourses
-        adj =  [[0] * numCourses for _ in range(numCourses)]
-        for a ,b in prerequisites :
-            adj[a][b] = 1
+        adj =  defaultdict(list)
+
+        for a,b in prerequisites:
+            adj[a].append(b)
+
 
         def dfs(v):
             if visited[v] == 1:
@@ -12,9 +14,8 @@ class Solution:
             if visited[v] == 2:
                 return True
             visited[v] = 1 
-            for i in range(numCourses):
-                if adj[v][i] == 1 :
-                    if not dfs(i):
+            for E in adj[v]:
+                    if not dfs(E):
                         return False
             visited[v] = 2 
             return True
