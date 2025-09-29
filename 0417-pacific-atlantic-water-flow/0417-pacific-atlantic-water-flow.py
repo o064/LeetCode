@@ -4,15 +4,14 @@ class Solution:
         cols = len(heights[0])
         A_visited = [[False] * cols  for _ in range(rows)]
         P_visited = [[False] * cols  for _ in range(rows)]
+        directions = [(1,0),(-1,0),(0,1),(0,-1)]
         def dfs(i,j, visited,prev ):
             if i< 0 or j < 0 or i >= rows  or j >= cols or visited[i][j] or heights[i][j] < prev :
                 return 
             visited[i][j] = True
             # dfs in all directions
-            dfs(i+1,j,visited,heights[i][j])
-            dfs(i-1,j,visited,heights[i][j])
-            dfs(i,j + 1,visited,heights[i][j])
-            dfs(i,j - 1,visited,heights[i][j])
+            for dx,dy in directions:
+                dfs(i+dx ,j+dy, visited , heights[i][j])
         # Pacific border (top row + left col)
         for i in range(rows):
             dfs(i, 0, P_visited, -1)
