@@ -1,14 +1,20 @@
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
-        delay = [float("inf")] * (n) 
-        delay[k-1] = 0 
-        def relax(u,v,w):
-            if delay[v-1] > delay[u-1] + w :
-                delay[v-1] = delay[u-1] + w
-        for i in range(n-1):
-            for u,v,w in times:
-                relax(u,v,w)
-        minTime =max(delay)
-        return minTime if  minTime != float("inf") else -1
+        adj = defaultdict(list)
 
-                
+        for u,v,w in times :
+            adj[u].append((v,w))
+        
+        minHeap = [(0,k)]
+        visit = set()
+        t = 0 
+        while minHeap : 
+            w1,n1 = heapq.heappop(minHeap)
+            if n1 in visit :
+                continue 
+            visit.add(n1)
+            t = max(t , w1)
+            for n2,w2 in adj[n1]:
+                if n2 not in visit :
+                    heapq.heappush(minHeap , (w1+ w2 , n2))
+        return t if len(visit ) == n  else -1 
