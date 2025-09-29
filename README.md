@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/o064/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/o064/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/o064/LeetCode-Problems/tree/master/1127-last-stone-weight) |
+| [1706-min-cost-to-connect-all-points](https://github.com/o064/LeetCode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/o064/LeetCode-Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Binary Search
 |  |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/o064/LeetCode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/o064/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/o064/LeetCode-Problems/tree/master/0744-network-delay-time) |
+| [1706-min-cost-to-connect-all-points](https://github.com/o064/LeetCode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/o064/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/o064/LeetCode-Problems/tree/master/0684-redundant-connection) |
+| [1706-min-cost-to-connect-all-points](https://github.com/o064/LeetCode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 ## String Matching
 |  |
 | ------- |
@@ -377,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/o064/LeetCode-Problems/tree/master/0744-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/o064/LeetCode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
