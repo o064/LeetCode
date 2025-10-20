@@ -1,10 +1,17 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         n = len(nums)
-        myMap = defaultdict(int)
-        for num in nums :
-            myMap[num] += 1
-        for  key , value in myMap.items():
-            if value > n/2 :
-                return key 
-        return -1 
+        candidate = nums[0]
+        count = 1
+        for num in nums[1:] :
+            if num != candidate :
+                count -=1 
+            else :
+                count += 1
+            if count == 0 :
+                candidate = num 
+                count = 1
+        
+            
+
+        return candidate
