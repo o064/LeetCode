@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/o064/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/o064/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/o064/LeetCode-Problems/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/o064/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/o064/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/o064/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/o064/LeetCode-Problems/tree/master/0621-task-scheduler) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/o064/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/o064/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/o064/LeetCode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0146-lru-cache](https://github.com/o064/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/o064/LeetCode-Problems/tree/master/0355-design-twitter) |
 ## Two Pointers
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/o064/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/o064/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/o064/LeetCode-Problems/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/o064/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -417,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/o064/LeetCode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/o064/LeetCode-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
