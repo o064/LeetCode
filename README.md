@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/o064/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/o064/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/o064/LeetCode-Problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/o064/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/o064/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/o064/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/o064/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/o064/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/o064/LeetCode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/o064/LeetCode-Problems/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/o064/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/o064/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/o064/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/o064/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/o064/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/o064/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/o064/LeetCode-Problems/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/o064/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/o064/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/o064/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/o064/LeetCode-Problems/tree/master/0322-coin-change) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/o064/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/o064/LeetCode-Problems/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/o064/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/o064/LeetCode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/o064/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 ## Dynamic Programming
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/o064/LeetCode-Problems/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/o064/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/o064/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [1706-min-cost-to-connect-all-points](https://github.com/o064/LeetCode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 ## String Matching
